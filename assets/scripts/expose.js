@@ -15,7 +15,7 @@ function init() {
 
     play_button.addEventListener("click", play_audio);
 
-    volume_level.addEventListener("change", change_level);
+    volume_level.addEventListener("input", change_level);
 
     function select_audio() {
       const horn = horn_selection.value;
