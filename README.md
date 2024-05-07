@@ -2,6 +2,9 @@
 
 Lab Members: Beijie Cheng, Jiaying Yang
 
+* [Link](https://auroruaaa.github.io/Lab5_Starter/expose.html) to expose.html
+* [Link](https://auroruaaa.github.io/Lab5_Starter/explore.html) to explore.html
+
 > Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.
 
 **A:** No. Sending message requires the interaction between two users, and unit testing does not provide such an environment, so it is not a good idea to use unit testing to test the message feature.
